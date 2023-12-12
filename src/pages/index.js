@@ -62,6 +62,7 @@ const BlogIndex = ({ data, location }) => {
 }
 
 export default BlogIndex
+// export default BlogIndex
 
 /**
  * Head export to define metadata for the page
