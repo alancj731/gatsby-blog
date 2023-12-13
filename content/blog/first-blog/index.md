@@ -6,3 +6,5 @@ description: "A small step forward..."
 
 Building a blog to record what I thought and what I did.
 Starting from a simple Gatsby blog. Trying to add more features later...
+
+![](./city.jpg)
